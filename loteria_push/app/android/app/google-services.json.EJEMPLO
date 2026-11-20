@@ -1,0 +1,3 @@
+{
+  "_comentario": "REEMPLAZA ESTE ARCHIVO colocando tu google-services.json real descargado de Firebase Console dentro de app/android/app/google-services.json (o ejecuta `flutterfire configure` dentro de app/)"
+}
